@@ -1,0 +1,1 @@
+../build-Debug/src_do.c.o ../build-Debug/src_weighing.c.o ../build-Debug/src_vineyardplot.c.o ../build-Debug/src_winegrower.c.o ../build-Debug/src_person.c.o ../build-Debug/src_date.c.o ../build-Debug/src_csv.c.o ../build-Debug/src_api.c.o

@@ -1,0 +1,121 @@
+[{
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/date.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/date.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/date.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/error.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/error.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/error.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/do.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/do.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/do.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/weighing.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/weighing.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/weighing.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/vineyardplot.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/vineyardplot.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/vineyardplot.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/weighing.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/weighing.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/weighing.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/vineyardplot.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/vineyardplot.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/vineyardplot.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/winegrower.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/winegrower.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/winegrower.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/person.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/person.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/person.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/date.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/date.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/date.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/csv.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/csv.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/csv.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/person.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/person.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/person.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/csv.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/csv.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/csv.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/grapevariety.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/grapevariety.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/grapevariety.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/api.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/api.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/src/api.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/api.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/api.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/api.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/do.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/do.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/do.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/winegrower.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/winegrower.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/UOCVineyard/include/winegrower.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Iinclude  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_pr2.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_pr2.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_pr2.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_pr3.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_pr3.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_pr3.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_suite.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_suite.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_suite.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_data.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_data.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_data.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_pr1.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_pr1.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_pr1.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_suite.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_suite.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_suite.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_pr2.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_pr2.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_pr2.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_pr1.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_pr1.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/src/test_pr1.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_pr3.h",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/g++-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_pr3.h -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/test/include/test_pr3.h.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }, {
+  "file": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/src/main.c",
+  "directory": "/home/uoc/Downloads/UOC20232_PR3_Code/UOC20232",
+  "command": "/usr/bin/gcc-11 -c /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/src/main.c -o /home/uoc/Downloads/UOC20232_PR3_Code/UOC20232/src/main.c.o -target x86_64-linux-gnu -I/usr/include/c++/11 -I/usr/include/x86_64-linux-gnu/c++/11 -I/usr/include/c++/11/backward -I/usr/lib/gcc/x86_64-linux-gnu/11/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Itest/include -IUOCVineyard/include  -g  -O0  -Wall"
+ }]

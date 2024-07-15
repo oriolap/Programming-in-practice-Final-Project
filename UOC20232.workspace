@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOC20232" Database="" Version="10000">
+  <Project Name="UOC20232" Path="UOC20232.project" Active="Yes"/>
+  <Project Name="UOCVineyard" Path="UOCVineyard/UOCVineyard.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="UOC20232" ConfigName="Debug"/>
+      <Project Name="UOCVineyards" ConfigName="Debug"/>
+      <Project Name="UOCVineyard" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="UOC20232" ConfigName="Release"/>
+      <Project Name="UOCVineyard" ConfigName="Release"/>
+      <Project Name="UOCVineyard" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
